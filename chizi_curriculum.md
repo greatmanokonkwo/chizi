@@ -1,0 +1,26 @@
+# Chizi's Personalized Guide On Harnessing the Power of Computer Systems
+
+The greatest superpower that any man (or little madam, in this case) can have is increased power over nature. Being able to harness and subdue nature in order to control one's environment is the greatest power. Engineering is the art of harnessing and subduing nature. It's the birthplace of technology and advancement of society and civilization. Sounds cool? No? Damn. Hopefully in due time you will think that's pretty awesome. But, for now how about we learn to make use of a very powerful tool. THE COMPUTER! DUM, DUM, DUM. Yes the very thing you are using to read this very boring article. Although there is very interesting low-level concepts that make the computer very powerful for the first part of your journey we shall focus on the more visible stuff (websites, mobile apps, video games, etc). You will find these applications to be great creative outlets (I know you're all about that creativity unicorn girl). Write a blog, hack roblox, understanding how youtube works (and even create your own!). These are the skills you will learn.
+
+**MOTIVATION:** It is very important that you have motivation for why you want do this. It sounds cool might help get you started but I won't drive you all the way. So stop and think young one. Why do you want to learn this stuff. If your like me, my motivation is Star Trek and advanced technology. I want to build computer systems that control the world around me in desired ways. This is the path of computer engineering. If you want to take this path then maybe you should learn some eletronics first. (if that is the case and you want to be as cool as Tony Stark then this resource might be very useful: http://www.learn-c.com/technology_education_sites.htm#software). If your motivation is to build cool things to show off to your friends then you are also in the right place. Trust me, all your friends will be amazed by the things you can create. I have a feeling that you like creating content (seeing as you have a whole youtube channel and everything) so am going to assume your not down for world domination like myself(just joking ... or am I?). Anyways, now that we have the motivation to learn out of the way lets get to some learning! *the crowd goes wild!*
+
+## Phase 1: Foundational Programming
+
+- Python programming on Codecademy: This is where you will learn about if-else statements, loops, functions, variables, etc (Don't worry if none of that made sense, that's why we are here to learn) https://www.codecademy.com/
+- Project 1 - You Got A Friend In Me: Create a text-based computer friend that gives funny responses to questions you ask it! (Hint: Artificial Intelligence = if-else statements) Ask me to help you set up stuff for the project!
+- Graphical User Interfaces (Displaying images and building a friendly interface): Learn PyGame and create a game using Python (if you don't know what pygame is then search it up! Searching up stuff is a very useful skill that know talks about! Also feel free to contact your personal trainer aka Greatman Okonkwo, and he will gladly help you out.)
+
+##Phase 2: Web and Mobile Technologies
+
+- HTML,CSS,Javascript,Node.js: Now its time to learn how to use your programming skills to build websites and other cool things. This will be a hard and big step from writing code in codecademy but, it is a neccesary step. I suggest you religiously follow the <a href="https://www.theodinproject.com/courses/javascript">TheOdinProject</a>. First take the Foundations course and the full stack javascript course (once again, don't let terminology scare you). Remember, consult me before starting so that I can prime you on the relevant stuff. This will be a big challenge and expect to feel defeated. But, remember to never give up and keep pushing forward. After this, you can call yourself a software developer (kind of). This course includes everythin from reading materials to projects. I want you to consume all of it. Seriously!	
+
+- React Native and Making Mobile Apps: You can transfer your web development skills to mobile development using the very handy Javascipt framework: React Native. For your project in this section, I want you to brainstorm an app idea that you think will be cool and then build it. Simple. We won't delve into mobile development with Android Studio, Java, Kotlin, Swift, Xcode and all that other goodness. We best stick to the Javascript framework for this one.
+
+##Phase 3: Thinking and Skills
+
+Congratualtions, you are officially a developer! But, what exactly can you develop? This is the point in your journey that you come to realize that it's not about how much code you know how write but about what's going on in that noggin of yours. There's a reason they are called programming languages. Language is what human beings use to communicate ideas with each other. Similary, programming languages are a way for you, the programmer to communicate ideas to the computer! So now we have to work on the ideas we have. 
+
+- Typing speed: This is a general skill that you should learn. Learn to type the proper way on, typing.com and then pratice on typeracer.com(make sure you are having fun)
+- Competitive Programming and writing better code: Contact me for support
+
+## Phase 4: Mastering Computers 

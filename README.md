@@ -10,13 +10,13 @@ The greatest superpower that any man (or little madam, in this case) can have is
 - Project 1 - You Got A Friend In Me: Create a text-based computer friend that gives funny responses to questions you ask it! (Hint: Artificial Intelligence = if-else statements) Ask me to help you set up stuff for the project!
 - Graphical User Interfaces (Displaying images and building a friendly interface): Learn PyGame and create a game using Python (if you don't know what pygame is then search it up! Searching up stuff is a very useful skill that know talks about! Also feel free to contact your personal trainer aka Greatman Okonkwo, and he will gladly help you out.)
 
-##Phase 2: Web and Mobile Technologies
+## Phase 2: Web and Mobile Technologies
 
 - HTML,CSS,Javascript,Node.js: Now its time to learn how to use your programming skills to build websites and other cool things. This will be a hard and big step from writing code in codecademy but, it is a neccesary step. I suggest you religiously follow the <a href="https://www.theodinproject.com/courses/javascript">TheOdinProject</a>. First take the Foundations course and the full stack javascript course (once again, don't let terminology scare you). Remember, consult me before starting so that I can prime you on the relevant stuff. This will be a big challenge and expect to feel defeated. But, remember to never give up and keep pushing forward. After this, you can call yourself a software developer (kind of). This course includes everythin from reading materials to projects. I want you to consume all of it. Seriously!	
 
 - React Native and Making Mobile Apps: You can transfer your web development skills to mobile development using the very handy Javascipt framework: React Native. For your project in this section, I want you to brainstorm an app idea that you think will be cool and then build it. Simple. We won't delve into mobile development with Android Studio, Java, Kotlin, Swift, Xcode and all that other goodness. We best stick to the Javascript framework for this one.
 
-##Phase 3: Thinking and Skills
+## Phase 3: Thinking and Skills
 
 Congratualtions, you are officially a developer! But, what exactly can you develop? This is the point in your journey that you come to realize that it's not about how much code you know how write but about what's going on in that noggin of yours. There's a reason they are called programming languages. Language is what human beings use to communicate ideas with each other. Similary, programming languages are a way for you, the programmer to communicate ideas to the computer! So now we have to work on the ideas we have. 
 
